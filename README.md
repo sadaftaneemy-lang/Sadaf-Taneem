@@ -6,7 +6,7 @@
 
 ## Skills
 - C ++
-- JavaScript
+- C
 - React
 - SQL
 
