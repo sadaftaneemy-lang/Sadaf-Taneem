@@ -1,11 +1,11 @@
 # Hi, I'm Sadaf Taneem 👋
 
 ## About Me
-- Software Developer
-- Interested in Web Development and AI
+- Electronics and Communication Engineer
+- Interested in VLSI , Semiconductor and IoT
 
 ## Skills
-- Python
+- 
 - JavaScript
 - React
 - SQL
