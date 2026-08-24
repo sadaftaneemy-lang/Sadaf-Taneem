@@ -7,8 +7,7 @@
 ## Skills
 - C ++
 - C
-- React
-- SQL
+- Verilog
 
 ## Featured Projects
 - Project A
