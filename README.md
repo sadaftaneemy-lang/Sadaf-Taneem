@@ -5,7 +5,7 @@
 - Interested in VLSI , Semiconductor and IoT
 
 ## Skills
-- 
+- C ++
 - JavaScript
 - React
 - SQL
