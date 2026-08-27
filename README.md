@@ -11,7 +11,7 @@
 
 ## Featured Projects
 - Analog Bandgap reference design using sky130
-- Project B
+- Analog to Digital Convertor using KiCad
 
 ## Contact
 
