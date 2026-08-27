@@ -10,7 +10,7 @@
 - Verilog
 
 ## Featured Projects
-- Project A
+- Analog Bandgap reference design using sky130
 - Project B
 
 ## Contact
