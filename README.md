@@ -14,6 +14,7 @@
 - Analog to Digital Convertor using KiCad
 - Inverter using Electric Binary
 - Level Shifter in Cadence Virtuoso (tsmcN65)
+- Cascode OpAmp in Cadence Virtuoso (tsmcN65)
  
 ## Contact
 
